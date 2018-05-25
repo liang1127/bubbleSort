@@ -1,4 +1,4 @@
-void bubbleSort( int *  array ,int size)
+void bubbleSort( int *  array ,int size)				 //指向非常數資料的常數指標	 
 {
 	void swap( int *element1Ptr, int *element2Ptr);
 	int j,n;
